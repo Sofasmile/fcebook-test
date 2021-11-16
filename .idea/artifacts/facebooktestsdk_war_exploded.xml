@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="facebooktestsdk:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/facebooktestsdk_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="facebooktestsdk/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="facebooktestsdk" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
